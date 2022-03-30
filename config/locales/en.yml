@@ -30,9 +30,3 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  activerecord:
-    models:
-      products:
-        errors:
-          length: 
-            too_short: "message"
